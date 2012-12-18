@@ -1,4 +1,4 @@
 abcnotation
 ===========
 
-A .Net wrapper for &lt;a href="http://abcnotation.com">ABC Notation&lt;/a>.
+A .Net wrapper for <a href="http://abcnotation.com">ABC Notation</a>.
